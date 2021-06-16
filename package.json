@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-tools-typed-array-function",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Return a function which tests if every element in a typed array passes a test condition.",
   "license": "Apache-2.0",
   "author": {

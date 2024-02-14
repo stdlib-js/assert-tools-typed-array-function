@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import typedarrayfcn from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-tools-typed-array-function@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/assert-tools-typed-array-function/tags). For example,
+
+```javascript
 import typedarrayfcn from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-tools-typed-array-function@v0.2.0-esm/index.mjs';
 ```
 
@@ -97,7 +102,7 @@ bool = f( arr2 );
 
 import isEven from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-even@esm/index.mjs';
 import Int32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-int32@esm/index.mjs';
-import typedarrayfcn from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-tools-typed-array-function@v0.2.0-esm/index.mjs';
+import typedarrayfcn from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-tools-typed-array-function@esm/index.mjs';
 
 var arr1;
 var arr2;

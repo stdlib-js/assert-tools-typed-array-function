@@ -188,8 +188,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/assert-tools-typed-array-function.svg
 [npm-url]: https://npmjs.org/package/@stdlib/assert-tools-typed-array-function
 
-[test-image]: https://github.com/stdlib-js/assert-tools-typed-array-function/actions/workflows/test.yml/badge.svg?branch=v0.2.1
-[test-url]: https://github.com/stdlib-js/assert-tools-typed-array-function/actions/workflows/test.yml?query=branch:v0.2.1
+[test-image]: https://github.com/stdlib-js/assert-tools-typed-array-function/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/assert-tools-typed-array-function/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/assert-tools-typed-array-function/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/assert-tools-typed-array-function?branch=main

@@ -38,13 +38,14 @@
   },
   "dependencies": {
     "@stdlib/assert-is-typed-array": "^0.2.1",
-    "@stdlib/string-format": "^0.2.1"
+    "@stdlib/string-format": "^0.2.1",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.1"
   },
   "devDependencies": {
     "@stdlib/array-int32": "^0.2.1",
     "@stdlib/assert-is-boolean": "^0.2.1",
     "@stdlib/math-base-assert-is-even": "^0.2.1",
-    "@stdlib/math-base-special-pow": "^0.2.0",
+    "@stdlib/math-base-special-pow": "^0.2.1",
     "@stdlib/utils-noop": "^0.2.1",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",

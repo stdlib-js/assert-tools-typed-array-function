@@ -37,7 +37,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-is-typed-array": "^0.2.1",
+    "@stdlib/assert-is-typed-array": "^0.2.2",
     "@stdlib/string-format": "^0.2.2",
     "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },

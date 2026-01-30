@@ -44,7 +44,7 @@
   "devDependencies": {
     "@stdlib/array-int32": "^0.2.2",
     "@stdlib/assert-is-boolean": "^0.2.2",
-    "@stdlib/math-base-assert-is-even": "^0.2.3",
+    "@stdlib/math-base-assert-is-even": "^0.2.4",
     "@stdlib/math-base-special-pow": "^0.3.0",
     "@stdlib/utils-noop": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",

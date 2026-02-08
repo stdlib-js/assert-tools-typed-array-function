@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import typedarrayfcn from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-tools-typed-array-function@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/assert-tools-typed-array-function/tags). For example,
+
+```javascript
 import typedarrayfcn from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-tools-typed-array-function@v0.2.3-deno/mod.js';
 ```
 
@@ -92,7 +97,7 @@ bool = f( arr2 );
 ```javascript
 import isEven from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-even@deno/mod.js';
 import Int32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-int32@deno/mod.js';
-import typedarrayfcn from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-tools-typed-array-function@v0.2.3-deno/mod.js';
+import typedarrayfcn from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-tools-typed-array-function@deno/mod.js';
 
 var arr1;
 var arr2;

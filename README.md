@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import typedarrayfcn from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-tools-typed-array-function@deno/mod.js';
+import typedarrayfcn from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-tools-typed-array-function@v0.2.3-deno/mod.js';
 ```
 
 <a name="typedarrayfcn"></a>
@@ -92,7 +92,7 @@ bool = f( arr2 );
 ```javascript
 import isEven from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-even@deno/mod.js';
 import Int32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-int32@deno/mod.js';
-import typedarrayfcn from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-tools-typed-array-function@deno/mod.js';
+import typedarrayfcn from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-tools-typed-array-function@v0.2.3-deno/mod.js';
 
 var arr1;
 var arr2;

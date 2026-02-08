@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-tools-typed-array-function",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Return a function which tests if every element in a typed array passes a test condition.",
   "license": "Apache-2.0",
   "author": {
@@ -38,19 +38,19 @@
   },
   "dependencies": {
     "@stdlib/assert-is-typed-array": "^0.2.2",
-    "@stdlib/string-format": "^0.2.2",
-    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
+    "@stdlib/string-format": "^0.2.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.3"
   },
   "devDependencies": {
-    "@stdlib/array-int32": "^0.2.2",
-    "@stdlib/assert-is-boolean": "^0.2.2",
-    "@stdlib/math-base-assert-is-even": "^0.2.4",
-    "@stdlib/math-base-special-pow": "^0.3.0",
-    "@stdlib/utils-noop": "^0.2.2",
+    "@stdlib/array-int32": "^0.2.3",
+    "@stdlib/assert-is-boolean": "^0.2.3",
+    "@stdlib/math-base-assert-is-even": "^0.2.5",
+    "@stdlib/math-base-special-pow": "^0.3.1",
+    "@stdlib/utils-noop": "^0.2.3",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.2"
+    "@stdlib/bench-harness": "^0.2.3"
   },
   "engines": {
     "node": ">=0.10.0",
